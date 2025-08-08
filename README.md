@@ -1,4 +1,4 @@
-Here’s the updated table with **Nikhil Bond (L, 777)** added in **jersey number order**:
+
 
 | S.No | Name                | Shirt Size | Jersey Number | Payment Status  |
 | ---- | ------------------- | ---------- | ------------- | --------------- |
@@ -28,4 +28,4 @@ Here’s the updated table with **Nikhil Bond (L, 777)** added in **jersey numbe
 | 24   | NIKHIL              | L          | 99            | ✅ Paid          |
 | 25   | Nikhil Bond         | L          | 777           |                 |
 
-Do you also want me to **recalculate the total paid amount** now that we have the new player?
+
