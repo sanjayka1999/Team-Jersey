@@ -10,7 +10,7 @@
 | 8    | CLINTON             | L          | 7              | ✅ Paid           |
 | 9    | James               | L          | 8              | ✅ Paid           |
 | 10   | Blizz Brett Francis | L          | 9              | ✅ Paid           |
-| 11   | Sanjay Kathula      | M          | 10             | ✅ Paid           |
+| 11   | Sanjay Kathula      | L          | 10             | ✅ Paid           |
 | 12   | Kevin               | XL         | 11             |                  |
 | 13   | Denard              | S          | 14             | ✅ Paid           |
 | 14   | Andrew              | M          | 17             | ✅ Paid           |
