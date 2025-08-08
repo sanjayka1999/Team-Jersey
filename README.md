@@ -17,10 +17,10 @@ Soccer Monarchs Team Jersey
 | 11   | Jesse M               | M          | 77            | ✅ Paid        |
 | 12   | Melvin Oldbury        | M          | 1             | ✅ Paid        |
 | 13   | Joshua                | L          | 6             | ✅ Paid        |
-| 14   | Jeremy CJ             | XL         | 69            | 🟨 Half Payment|
-| 15   | Blizz Brett Francis   | L          | 9             | 🟨 Half Payment|
+| 14   | Jeremy CJ             | XL         | 30            | 🟨 Half Payment|
+| 15   | Blizz Brett Francis   | L          | 9             | ✅ Paid        |
 | 16   | Godwin Jude           | L          | -             | ❌ Unpaid      |
-| 17   | ROHAN                 | M          | -             | ❌ Unpaid      |
+| 17   | ROHAN                 | M          | 17            | ❌ Unpaid      |
 | 18   | Jerome                | L          | 4             | ❌ Unpaid      |
 | 19   | Mohammed Ahmed        | L          | 31            | ❌ Unpaid      |
 | 20   | Noel                  | L          | -             | ❌ Unpaid      |
