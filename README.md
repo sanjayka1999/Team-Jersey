@@ -22,5 +22,5 @@
 | 20   | Jesse M             | M          | 77             | ✅ Paid           |
 | 21   | NIKHIL              | L          | 99             | ✅ Paid           |
 | 22   | Somsai              | L          | 20             |                  |
-| 23   | Godwin Jude         | L          | -              |                  |
-| 24   | Shalom              | M          | -              |                  |
+| 23   | Godwin Jude         | L          | 12              |                  |
+| 24   | Shalom              | M          | 2              |                  |
