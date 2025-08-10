@@ -19,7 +19,7 @@
 | 15   | Denard              | S          | 14            | ✅ Paid          |
 | 16   | Andrew              | M          | 17            | ✅ Paid          |
 | 17   | ROHAN               | M          | 17            |                 |
-| 18   | Somsai              | L          | 20            |                 |
+| 18   | Somsai              | L          | 20            | ✅ Paid         |
 | 19   | Shayden             | XXL        | 23            |                 |
 | 20   | Jude                | M          | 25            | ✅ Paid          |
 | 21   | Jeremy CJ           | XL         | 30            | 🟨 Half Payment |
