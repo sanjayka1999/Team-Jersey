@@ -20,7 +20,7 @@
 | 16   | Andrew              | M          | 17            | ✅ Paid          |
 | 17   | ROHAN               | M          | 17            |                 |
 | 18   | Somsai              | L          | 20            | ✅ Paid         |
-| 19   | Shayden             | XXL        | 23            |                 |
+| 19   | Shayden             | XXL        | 23            | ✅ Paid                 |
 | 20   | Jude                | M          | 25            | ✅ Paid          |
 | 21   | Jeremy CJ           | XL         | 30            | 🟨 Half Payment |
 | 22   | Mohammed Ahmed      | L          | 31            |                 |
